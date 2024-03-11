@@ -1,0 +1,10 @@
+header{
+    height: 100px;
+    background-color: blueviolet;
+    boder-botton: 2px #000;
+}
+
+footer{
+    height: 100px;
+    background-color: darkgreen;
+}
