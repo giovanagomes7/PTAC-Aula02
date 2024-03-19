@@ -1,7 +1,9 @@
 export default function Header(){
     return(
        
-            <header><h2>GIOVANA</h2></header>
+            <header>
+                 <h2>Agenda telefonica</h2>
+            </header>
        
     )
 }

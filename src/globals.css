@@ -1,10 +1,15 @@
 header{
     height: 100px;
     background-color: blueviolet;
-    border-bottom: 2px #000;
+    border-bottom: 2px hsl(0, 0%, 0%);
+    text-align: center;
+    
 }
 
 footer{
     height: 100px;
     background-color: darkgreen;
+    border-bottom: 100px black;
+    text-align: center;
+    font-size: 30px;
 }
